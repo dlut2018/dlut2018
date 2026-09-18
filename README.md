@@ -16,16 +16,27 @@
 
 - Building practical software for information collection, data analysis, and everyday workflows.
 - Exploring Java backend development, frontend applications, C++ foundations, and neural networks.
-- Keeping older projects organized while continuing to learn through hands-on implementation.
+- Writing down lessons learned while turning ideas into working software.
 
-## Featured projects
+## Engineering
+
+Projects focused on building usable systems, tools, and experiments.
 
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [spiderandstatistic](https://github.com/dlut2018/spiderandstatistic) | Automated information collection and data analysis toolkit | Python |
 | [CapsuleNN](https://github.com/dlut2018/CapsuleNN) | Exploration of capsule neural networks and their applications | Deep Learning |
 | [NetDisk](https://github.com/dlut2018/NetDisk) · [NetDisk-FE](https://github.com/dlut2018/NetDisk-FE) | A network-disk application with backend and frontend parts | Java · HTML |
-| [leetCoding](https://github.com/dlut2018/leetCoding) · [programstudy](https://github.com/dlut2018/programstudy) | Algorithm practice and programming fundamentals | Java · C++ |
+
+## Blog & Notes
+
+Learning notes, problem-solving logs, and technical ideas in progress.
+
+| Topic | What you will find |
+| --- | --- |
+| [Algorithm notes](https://github.com/dlut2018/leetCoding) | LeetCode practice, patterns, and problem-solving notes in Java |
+| [Programming notes](https://github.com/dlut2018/programstudy) | C++ fundamentals, experiments, and study notes |
+| More writing | New articles and longer technical notes will be added here over time |
 
 > Some projects are archived as reference snapshots. They remain available for reading and learning.
 
