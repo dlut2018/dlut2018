@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563eb&height=180&section=header&text=dlut2018&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=工程实践%20%C2%B7%20数据工具%20%C2%B7%20神经网络探索&descAlignY=63&descSize=18" width="100%" alt="dlut2018 header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563eb&height=180&section=header&text=dlut2018&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E5%88%86%E5%B8%83%E5%BC%8F%E5%AD%98%E5%82%A8%20%C2%B7%20%E9%A3%8E%E6%8E%A7%E5%BC%95%E6%93%8E%20%C2%B7%20LLM%20%E5%BA%94%E7%94%A8&descAlignY=63&descSize=18" width="100%" alt="dlut2018 header" />
 
 # 你好，我是 dlut2018 👋
 
@@ -20,9 +20,9 @@
 
 ## 关于我
 
-- 关注软件工程、数据采集与分析，以及神经网络实践。
-- 正在探索 Java 后端、前端应用、C++ 基础和 Python 工具链。
-- 相信好的项目应该清晰、实用，并且能留下可复用的经验。
+- 主用 Java / Python，深耕 Spring 与 Netty。
+- 专注分布式存储、风控引擎与 LLM 应用的工程落地。
+- 相信好的系统应该清晰、可靠，并且能在生产环境长期跑下去。
 
 </td>
 <td width="48%" valign="top">
@@ -30,10 +30,9 @@
 ## 当前方向
 
 ```text
-工程实践       ████████░░  80%
-数据工具       ███████░░░  70%
-算法与基础     ██████░░░░  60%
-深度学习       █████░░░░░  50%
+分布式存储     █████████░  85%
+风控引擎       ███████░░░  75%
+LLM 应用       ██████░░░░  65%
 ```
 
 </td>
@@ -91,12 +90,10 @@ NetDisk 前端部分，配合后端完成完整应用体验。
 ## 技术栈 · Stack
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/Neural%20Networks-7c3aed?style=flat-square" alt="Neural Networks">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring">
+<img src="https://img.shields.io/badge/Netty-E04E36?style=flat-square" alt="Netty">
 </p>
 
 ## GitHub 数据
