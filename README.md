@@ -77,13 +77,6 @@ NetDisk 前端部分，配合后端完成完整应用体验。
 <img src="https://img.shields.io/badge/Netty-E04E36?style=flat-square" alt="Netty">
 </p>
 
-## GitHub 数据
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dlut2018&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&locale=cn" alt="GitHub 统计" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlut2018&layout=compact&langs_count=6&theme=transparent&hide_border=true&locale=cn" alt="常用语言" />
-</p>
-
 <div align="center">
 
 <a href="https://github.com/dlut2018?tab=repositories">查看全部项目 →</a>
