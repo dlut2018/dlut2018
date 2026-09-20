@@ -14,30 +14,11 @@
 
 </div>
 
-<table>
-<tr>
-<td width="52%" valign="top">
-
 ## 关于我
 
 - 主用 Java / Python，技术栈是 Spring 和 Netty。
 - 专注分布式存储、风控引擎与 LLM 应用的工程落地。
 - 相信好的系统应该清晰、可靠，并且能在生产环境长期跑下去。
-
-</td>
-<td width="48%" valign="top">
-
-## 当前方向
-
-```text
-分布式存储     █████████░  85%
-风控引擎       ███████░░░  75%
-LLM 应用       ██████░░░░  65%
-```
-
-</td>
-</tr>
-</table>
 
 ## 工程 · Projects
 
