@@ -8,7 +8,6 @@
 
 <p>
   <a href="#工程-projects"><img src="https://img.shields.io/badge/工程-Projects-2563eb?style=flat-square" alt="工程项目"></a>
-  <a href="#博客与笔记-notes"><img src="https://img.shields.io/badge/博客与笔记-Notes-7c3aed?style=flat-square" alt="博客与笔记"></a>
   <a href="#技术栈-stack"><img src="https://img.shields.io/badge/技术栈-Stack-059669?style=flat-square" alt="技术栈"></a>
   <a href="https://github.com/dlut2018"><img src="https://img.shields.io/github/followers/dlut2018?style=flat-square&label=关注者" alt="关注者"></a>
 </p>
@@ -47,7 +46,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🕷️ [spiderandstatistic](https://github.com/dlut2018/spiderandstatistic)
 
@@ -57,19 +56,7 @@
 <img src="https://img.shields.io/badge/Data%20Analysis-0f766e?style=flat-square" alt="Data Analysis">
 
 </td>
-<td width="50%" valign="top">
-
-### 🧠 [CapsuleNN](https://github.com/dlut2018/CapsuleNN)
-
-胶囊网络及其应用的学习与实验，记录模型思路和实现过程。
-
-<img src="https://img.shields.io/badge/Deep%20Learning-7c3aed?style=flat-square" alt="Deep Learning">
-<img src="https://img.shields.io/badge/Research-9333ea?style=flat-square" alt="Research">
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### ☁️ [NetDisk](https://github.com/dlut2018/NetDisk)
 
@@ -79,37 +66,14 @@
 <img src="https://img.shields.io/badge/Backend-1d4ed8?style=flat-square" alt="Backend">
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🎨 [NetDisk-FE](https://github.com/dlut2018/NetDisk-FE)
 
 NetDisk 前端部分，配合后端完成完整应用体验。
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/Frontend-e11d48?style=flat-square" alt="Frontend">
-
-</td>
-</tr>
-</table>
-
-## 博客与笔记 · Notes
-
-<p>这里放学习轨迹、问题拆解和那些值得回头看的实现细节。</p>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 [leetCoding](https://github.com/dlut2018/leetCoding)
-
-算法题练习与解题记录：从暴力思路到更好的复杂度。
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 [programstudy](https://github.com/dlut2018/programstudy)
-
-C++ 基础、编程实验和阶段性学习笔记。
 
 </td>
 </tr>
@@ -120,7 +84,6 @@ C++ 基础、编程实验和阶段性学习笔记。
 <br>
 
 - 工程项目记录完整的代码、架构尝试和实现结果。
-- 博客与笔记记录问题背景、思考过程和可迁移的解决方法。
 - 老项目会保留为归档快照，方便回顾和学习。
 
 </details>
