@@ -9,7 +9,6 @@
 <p>
   <a href="#工程-projects"><img src="https://img.shields.io/badge/工程-Projects-2563eb?style=flat-square" alt="工程项目"></a>
   <a href="#技术栈-stack"><img src="https://img.shields.io/badge/技术栈-Stack-059669?style=flat-square" alt="技术栈"></a>
-  <a href="https://github.com/dlut2018"><img src="https://img.shields.io/github/followers/dlut2018?style=flat-square&label=关注者" alt="关注者"></a>
 </p>
 
 </div>
